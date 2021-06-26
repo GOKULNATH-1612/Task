@@ -1,0 +1,107 @@
+.container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0; 
+    background-color: white;
+    /* background-color: transparent !important; */
+    
+ }
+ .main
+ {
+     background-color: white;
+ }
+ .heading1
+ {
+     font-family: Georgia;
+     font-size: 60px;
+     margin-top: 10%;
+     margin-left: 10%;
+     font-weight: bolder;
+     color: black;
+ }
+ 
+ .side
+ {
+    width: 15%;
+    border: none;
+ }
+ .para_container
+ {
+     float: right;
+     margin-top: 6%;
+     margin-inline-end: 10%;
+     
+ }
+ .para
+ {
+     font-size: 15px;
+     font-weight: lighter;
+ }
+ hr{
+     color: red;
+     width: 60px;
+     margin-left: 20%;
+ }
+ .strike
+ {
+    text-decoration: line-through;
+    text-decoration-color: red;
+ }
+ .h2
+ {
+     font-family: Georgia;
+     font-weight: bolder;
+     margin: 15%;
+     font-size: 30px;
+ }
+ p
+ {
+     margin-left: 20%;
+     margin-top: 5%;
+     color: gray;
+     font-size: 15px;
+ }
+ .cart
+ {
+     margin-left: 15%;
+     margin-top: 25%;
+     background-color: rgb(240, 56, 56);
+     color:white;
+     text-align: center;  
+     font-size: 16px;
+     border-radius: 35px;
+     padding: 10px;
+     width: 110px;
+ }
+ .card
+ {
+     width: 10%;
+     float: left;
+     margin-left: 5%;
+     margin-top: 5%;
+     height: 25%;
+     box-shadow: 10px 20px 40px 15px rgb(228, 223, 223);
+     border-radius: 20px;
+     background-color: white;
+     color: black;
+
+ }
+ .img
+ {
+    display: inline-block;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin-left: 10%;
+    border-radius: 50%;
+ }
+ .card_text
+ {
+     color: black;
+     margin-left: 15%;
+     font-size: 12px;
+ }
+ 
